@@ -21,7 +21,7 @@ def func(str1):
             tmp_hash[_] = 1
         else:
             tmp_hash[_] = tmp_hash[_] + 1
-    sorted_char_list = sorted(tmp_hash,key=lambda x:x.values)
+    sorted_char_list = sorted(tmp_hash, key=lambda x: x.values)
     print(sorted_char_list)
     for s in sorted_char_list:
         result += s * tmp_hash[s]
