@@ -10,6 +10,7 @@ class ListNode:
         self.val = x
         self.next = None
 
+
 class Solution:
     def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
         '''
@@ -43,7 +44,7 @@ class Solution:
                 l1 = ListNode(0)
             if not l2:
                 l2 = ListNode(0)
-            value = (l1.val + l2.val + 1) % 10 if gt_10 else (l1.val + l2.val) % 10
+            value = (l1.val + l2.val + gt_10) % 10
             gt_10 = l1.val + l2.val + gt_10 >= 10
             new_head.next = ListNode(value)
 
@@ -54,4 +55,3 @@ class Solution:
         if gt_10:
             new_head.next = ListNode(1)
         return dummy.next
-
