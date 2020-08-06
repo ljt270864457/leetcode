@@ -13,6 +13,11 @@ class TreeNode:
 
 class Solution:
     def buildTree(self, preorder) -> TreeNode:
+        '''
+        给定二叉搜索树的前序遍历数组，重建二叉树，遍历顺序-> (根，左，右)
+        :param preorder:
+        :return:
+        '''
         if not preorder:
             return TreeNode(None)
         root = TreeNode(preorder.pop(0))
