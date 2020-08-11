@@ -3,11 +3,51 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="/var/folders/5x/39zl22l97hdgc4hxhrbq_cx00000gn/T/leetcode/editor/cn/[100]相同的树.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/5x/39zl22l97hdgc4hxhrbq_cx00000gn/T/leetcode/editor/cn/[100]相同的树.py" />
+              <option name="questionId" value="100" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/5x/39zl22l97hdgc4hxhrbq_cx00000gn/T/leetcode/editor/cn/[11]盛最多水的容器.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/5x/39zl22l97hdgc4hxhrbq_cx00000gn/T/leetcode/editor/cn/[11]盛最多水的容器.py" />
+              <option name="questionId" value="11" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/5x/39zl22l97hdgc4hxhrbq_cx00000gn/T/leetcode/editor/cn/[17]电话号码的字母组合.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/5x/39zl22l97hdgc4hxhrbq_cx00000gn/T/leetcode/editor/cn/[17]电话号码的字母组合.py" />
+              <option name="questionId" value="17" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/5x/39zl22l97hdgc4hxhrbq_cx00000gn/T/leetcode/editor/cn/[22]括号生成.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/5x/39zl22l97hdgc4hxhrbq_cx00000gn/T/leetcode/editor/cn/[22]括号生成.py" />
+              <option name="questionId" value="22" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/5x/39zl22l97hdgc4hxhrbq_cx00000gn/T/leetcode/editor/cn/[2]两数相加.py">
           <value>
             <LeetcodeEditor>
               <option name="path" value="/var/folders/5x/39zl22l97hdgc4hxhrbq_cx00000gn/T/leetcode/editor/cn/[2]两数相加.py" />
               <option name="questionId" value="2" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/5x/39zl22l97hdgc4hxhrbq_cx00000gn/T/leetcode/editor/cn/[39]组合总和.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/5x/39zl22l97hdgc4hxhrbq_cx00000gn/T/leetcode/editor/cn/[39]组合总和.py" />
+              <option name="questionId" value="39" />
             </LeetcodeEditor>
           </value>
         </entry>
