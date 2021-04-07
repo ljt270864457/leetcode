@@ -35,11 +35,27 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/5x/39zl22l97hdgc4hxhrbq_cx00000gn/T/leetcode/editor/cn/[23]合并K个排序链表.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/5x/39zl22l97hdgc4hxhrbq_cx00000gn/T/leetcode/editor/cn/[23]合并K个排序链表.py" />
+              <option name="questionId" value="23" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/5x/39zl22l97hdgc4hxhrbq_cx00000gn/T/leetcode/editor/cn/[2]两数相加.py">
           <value>
             <LeetcodeEditor>
               <option name="path" value="/var/folders/5x/39zl22l97hdgc4hxhrbq_cx00000gn/T/leetcode/editor/cn/[2]两数相加.py" />
               <option name="questionId" value="2" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/5x/39zl22l97hdgc4hxhrbq_cx00000gn/T/leetcode/editor/cn/[31]下一个排列.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/5x/39zl22l97hdgc4hxhrbq_cx00000gn/T/leetcode/editor/cn/[31]下一个排列.py" />
+              <option name="questionId" value="31" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -56,6 +72,14 @@
             <LeetcodeEditor>
               <option name="path" value="/var/folders/5x/39zl22l97hdgc4hxhrbq_cx00000gn/T/leetcode/editor/cn/[3]无重复字符的最长子串.py" />
               <option name="questionId" value="3" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/5x/39zl22l97hdgc4hxhrbq_cx00000gn/T/leetcode/editor/cn/[42]接雨水.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/5x/39zl22l97hdgc4hxhrbq_cx00000gn/T/leetcode/editor/cn/[42]接雨水.py" />
+              <option name="questionId" value="42" />
             </LeetcodeEditor>
           </value>
         </entry>
